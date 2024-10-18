@@ -7,3 +7,6 @@ This tool allows you to automate mouse clicking with customizable intervals, per
 2. Run ```PrimeClicker.exe```
 
 ![PrimeClicker Screenshot](AutoClickerPrev.png)
+
+> [!NOTE]
+> You can join my [Discord](https://discord.gg/N55YYbDZ7Z) or look at my [Website](https://primemarket.github.io/sites/tools-autoclicker.html) if you want to see more tools and information!
