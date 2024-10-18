@@ -1,0 +1,8 @@
+C:\Users\pkuhn\Downloads\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\pkuhn\Downloads\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\pkuhn\Downloads\AutoClicker\obj\x64\Release\AutoClicker.csproj.AssemblyReference.cache
+C:\Users\pkuhn\Downloads\AutoClicker\obj\x64\Release\AutoClicker.Form1.resources
+C:\Users\pkuhn\Downloads\AutoClicker\obj\x64\Release\AutoClicker.csproj.GenerateResource.cache
+C:\Users\pkuhn\Downloads\AutoClicker\obj\x64\Release\AutoClicker.csproj.CoreCompileInputs.cache
+C:\Users\pkuhn\Downloads\AutoClicker\obj\x64\Release\AutoClicker.exe
+C:\Users\pkuhn\Downloads\AutoClicker\obj\x64\Release\AutoClicker.pdb
